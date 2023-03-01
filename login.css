@@ -33,8 +33,8 @@
 
 /*Esse logoT, é o img da empresa e ela é o principal fator para a organização do conteúdo e tamanho*/
 .logoT{
-    width: 640px;
-    height: 640px;
+    width: 922px;
+    height: 922px;
 }
  
 .conteudo{
@@ -42,7 +42,7 @@
     z-index: 2;
     display: flex;
     justify-content: center;
-    margin-top:8%;
+    margin-top:2%;
 }
 .conteudo-principal{
     display: flex;
